@@ -1,4 +1,4 @@
-# tuples-assignment
+# Tuples assignment
 
 Write a function called skip_tuples.
 It has a tuple as input. 
@@ -12,22 +12,27 @@ The input tuple is('I', 'am', 'a', 'test', 'tuple')
 
 This will return the tuple ('I', 'a', 'tuple').
 
-Don’t forget to write a docstring for the above function.
+Don’t forget to write a 
+"""
+docstring
+"""
+for the above function.
 
 Put your testcases in main()
 
 
 
+</br>
 
 
 
-Plagiarism 
+# Plagiarism 
 
 Below are rules of thumb that the course considers reasonable and not reasonable. 
 
   
 
-Reasonable 
+## Reasonable 
 
 Communicating with classmates about assessments and properly citing those discussions. 
 
@@ -50,7 +55,7 @@ Working with (and even paying) a tutor to help you with the course, provided the
 
 
 
-Not Reasonable 
+## Not Reasonable 
 
 Using third-party AI-based software (including ChatGPT, GitHub Copilot, the new Bing, et al.) to generate code without citation. 
 
